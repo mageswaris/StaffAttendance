@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PraxTester": {
+      "commandName": "Project",
+      "commandLineArgs": "2 -noreport"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+C:\Users\mageswari-a\Downloads\PraxTester\obj\Debug\net6.0-windows\StaffAttendance.csproj.AssemblyReference.cache
+C:\Users\mageswari-a\Downloads\PraxTester\obj\Debug\net6.0-windows\StaffAttendance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mageswari-a\Downloads\PraxTester\obj\Debug\net6.0-windows\StaffAttendance.AssemblyInfoInputs.cache
+C:\Users\mageswari-a\Downloads\PraxTester\obj\Debug\net6.0-windows\StaffAttendance.AssemblyInfo.cs
+C:\Users\mageswari-a\Downloads\PraxTester\obj\Debug\net6.0-windows\StaffAttendance.csproj.CoreCompileInputs.cache
+D:\Work\SMART FINGER_Automation\StaffAttendance\obj\Debug\net6.0-windows\StaffAttendance.csproj.AssemblyReference.cache
+D:\Work\SMART FINGER_Automation\StaffAttendance\obj\Debug\net6.0-windows\StaffAttendance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\SMART FINGER_Automation\StaffAttendance\obj\Debug\net6.0-windows\StaffAttendance.AssemblyInfoInputs.cache
+D:\Work\SMART FINGER_Automation\StaffAttendance\obj\Debug\net6.0-windows\StaffAttendance.AssemblyInfo.cs
+D:\Work\SMART FINGER_Automation\StaffAttendance\obj\Debug\net6.0-windows\StaffAttendance.csproj.CoreCompileInputs.cache
+D:\Work\SMART FINGER_Automation\StaffAttendance_Old\obj\Debug\net6.0-windows\StaffAttendance.csproj.AssemblyReference.cache
+D:\Work\SMART FINGER_Automation\StaffAttendance_Old\obj\Debug\net6.0-windows\StaffAttendance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\SMART FINGER_Automation\StaffAttendance_Old\obj\Debug\net6.0-windows\StaffAttendance.AssemblyInfoInputs.cache
+D:\Work\SMART FINGER_Automation\StaffAttendance_Old\obj\Debug\net6.0-windows\StaffAttendance.AssemblyInfo.cs
+D:\Work\SMART FINGER_Automation\StaffAttendance_Old\obj\Debug\net6.0-windows\StaffAttendance.csproj.CoreCompileInputs.cache
+D:\Work\SMART FINGER_Automation\StaffAttendance_Old\bin\Debug\net6.0-windows\StaffAttendance.exe
+D:\Work\SMART FINGER_Automation\StaffAttendance_Old\bin\Debug\net6.0-windows\StaffAttendance.deps.json
+D:\Work\SMART FINGER_Automation\StaffAttendance_Old\bin\Debug\net6.0-windows\StaffAttendance.runtimeconfig.json
+D:\Work\SMART FINGER_Automation\StaffAttendance_Old\bin\Debug\net6.0-windows\StaffAttendance.dll
+D:\Work\SMART FINGER_Automation\StaffAttendance_Old\bin\Debug\net6.0-windows\StaffAttendance.pdb
+D:\Work\SMART FINGER_Automation\StaffAttendance_Old\bin\Debug\net6.0-windows\FlaUI.Core.dll
+D:\Work\SMART FINGER_Automation\StaffAttendance_Old\bin\Debug\net6.0-windows\FlaUI.UIA2.dll
+D:\Work\SMART FINGER_Automation\StaffAttendance_Old\bin\Debug\net6.0-windows\FlaUI.UIA3.dll
+D:\Work\SMART FINGER_Automation\StaffAttendance_Old\bin\Debug\net6.0-windows\Interop.UIAutomationClient.dll
+D:\Work\SMART FINGER_Automation\StaffAttendance_Old\bin\Debug\net6.0-windows\System.Management.dll
+D:\Work\SMART FINGER_Automation\StaffAttendance_Old\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\Work\SMART FINGER_Automation\StaffAttendance_Old\bin\Debug\net6.0-windows\Flit.dll
+D:\Work\SMART FINGER_Automation\StaffAttendance_Old\obj\Debug\net6.0-windows\StaffAttendance.csproj.CopyComplete
+D:\Work\SMART FINGER_Automation\StaffAttendance_Old\obj\Debug\net6.0-windows\StaffAttendance.dll
+D:\Work\SMART FINGER_Automation\StaffAttendance_Old\obj\Debug\net6.0-windows\refint\StaffAttendance.dll
+D:\Work\SMART FINGER_Automation\StaffAttendance_Old\obj\Debug\net6.0-windows\StaffAttendance.pdb
+D:\Work\SMART FINGER_Automation\StaffAttendance_Old\obj\Debug\net6.0-windows\StaffAttendance.genruntimeconfig.cache
+D:\Work\SMART FINGER_Automation\StaffAttendance_Old\obj\Debug\net6.0-windows\ref\StaffAttendance.dll
